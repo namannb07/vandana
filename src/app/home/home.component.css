@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    padding: 100px;
+}
+.my-2{
+    margin-left: 10px;
+}
